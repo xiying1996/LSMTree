@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/wgx/project/myLsmTree/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/wgx/project/myLsmTree/include -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/LSMTree.dir/src/main.cpp.o -c /Users/wgx/project/myLsmTree/src/main.cpp",
+  "file": "/Users/wgx/project/myLsmTree/src/main.cpp",
+  "output": "CMakeFiles/LSMTree.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/wgx/project/myLsmTree/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/wgx/project/myLsmTree/include -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/LSMTree.dir/src/Memtable.cpp.o -c /Users/wgx/project/myLsmTree/src/Memtable.cpp",
+  "file": "/Users/wgx/project/myLsmTree/src/Memtable.cpp",
+  "output": "CMakeFiles/LSMTree.dir/src/Memtable.cpp.o"
+},
+{
+  "directory": "/Users/wgx/project/myLsmTree/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/wgx/project/myLsmTree/include -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/LSMTree.dir/src/SSTable.cpp.o -c /Users/wgx/project/myLsmTree/src/SSTable.cpp",
+  "file": "/Users/wgx/project/myLsmTree/src/SSTable.cpp",
+  "output": "CMakeFiles/LSMTree.dir/src/SSTable.cpp.o"
+},
+{
+  "directory": "/Users/wgx/project/myLsmTree/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/wgx/project/myLsmTree/include -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.sdk -o CMakeFiles/LSMTree.dir/src/LSMTree.cpp.o -c /Users/wgx/project/myLsmTree/src/LSMTree.cpp",
+  "file": "/Users/wgx/project/myLsmTree/src/LSMTree.cpp",
+  "output": "CMakeFiles/LSMTree.dir/src/LSMTree.cpp.o"
+}
+]
